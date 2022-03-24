@@ -13,4 +13,4 @@ spec:
     protocol: TCP
   selector:
     app: onlinestore
-    version: 8080
+    version: 2.6.1
