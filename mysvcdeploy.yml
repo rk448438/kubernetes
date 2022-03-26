@@ -12,5 +12,5 @@ spec:
     nodePort: 30001
     protocol: TCP
   selector:
-    app: myjavaapp
+    app: myjavaapp 
     
